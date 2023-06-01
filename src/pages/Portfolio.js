@@ -19,8 +19,8 @@ function Portfolio() {
       <a href="https://unifiedgg.herokuapp.com/">
         <PortfolioItem name="Unified GG" image={Proj2}/>
       </a>
-      <a href="https://github.com/Blaize95/Team-Profile-Generator">
-        <PortfolioItem name="Team Profile Generator" image={Proj3}/>
+      <a href="">
+        <PortfolioItem name="EloStars" image={Proj3}/>
       </a>
       <a href="https://blaizes-note-taker-app.herokuapp.com/">
         <PortfolioItem name="Note Taker App" image={Proj4}/>
